@@ -2,5 +2,5 @@ theme = "PaperMod"
 baseURL = "https://netvepi.github.io/"
 languageCode = "fr"
 title = "netvepi"
-publishDir = "public"
+publishDir = "docs"
 minify.minifyOutput = true
